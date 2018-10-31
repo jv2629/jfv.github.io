@@ -1,0 +1,10 @@
+---
+title: "Projects"
+output: html_document
+---
+
+### Enabling the Geographic Analysis of HIV Programmatic Data
+#### Next Generation Internship with ICAP in Tanzania
+##### Summer 2018
+
+<img src = "images/ICAP Tableau Poster.jpg" style = "width:65%; border:10px solid; margin-right: 20px" align="left">
